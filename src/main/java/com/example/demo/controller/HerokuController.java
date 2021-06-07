@@ -9,7 +9,7 @@ public class HerokuController {
 	
 	@GetMapping("/")
 	public String heroku() {
-		return("Welcome to heroku Spring Lively Inspheris!");
+		return("Welcome to heroku Spring Lively Inspheris!!!");
 	}
 
 }
